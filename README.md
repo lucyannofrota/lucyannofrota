@@ -1,4 +1,13 @@
-### Hi there 👋
+:mortar_board: Electrical engineering \
+:books: I am studying for a master's in Robotics, Control, and Artificial Intelligence
+
+
+
+
+
+
+
+
 
 <!--
 **lucyannofrota/lucyannofrota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
