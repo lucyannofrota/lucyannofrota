@@ -1,5 +1,5 @@
 :mortar_board: Electrical engineering \
-:books: I am studying for a master's in Robotics, Control, and Artificial Intelligence
+:books: Currently studying for a master's in Robotics, Control, and Artificial Intelligence
 
 
 
