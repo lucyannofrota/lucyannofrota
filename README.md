@@ -4,8 +4,8 @@
 :books: Currently studying for a master's in Robotics, Control, and Artificial Intelligence
 
 
-![Lucyanno's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucyannofrota\&layout=donut&theme=transparent)
 ![Lucyanno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucyannofrota&layout=compact&theme=transparent)
+![Lucyanno's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucyannofrota\&layout=donut&theme=transparent)
 
 
 
