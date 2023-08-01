@@ -1,11 +1,11 @@
-![Lucyanno's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucyannofrota&rank_icon=github&PAT_1&show_icons=true&include_all_commits=true&hide=stars&theme=transparent&hide_border=true)
+![Lucyanno's GitHub stats](https://profile-cards-lucyannofrota.vercel.app/api?username=lucyannofrota&rank_icon=github&PAT_1&show_icons=true&include_all_commits=true&hide=stars&theme=transparent&hide_border=true)
 
 :mortar_board: Electrical engineering \
 :books: Currently studying for a master's in Robotics, Control, and Artificial Intelligence
 
 
-![Lucyanno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucyannofrota&layout=compact&theme=transparent&hide_border=true)
-![Lucyanno's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucyannofrota\&layout=donut&theme=transparent&hide_border=true)
+![Lucyanno's wakatime stats](https://profile-cards-lucyannofrota.vercel.app/api/wakatime?username=lucyannofrota&PAT_1&layout=compact&theme=transparent&hide_border=true)
+![Lucyanno's Top Langs](https://profile-cards-lucyannofrota.vercel.app/api/top-langs/?username=lucyannofrota&PAT_1&layout=donut&theme=transparent&hide_border=true)
 
 
 
