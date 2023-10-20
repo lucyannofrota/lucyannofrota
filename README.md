@@ -1,6 +1,6 @@
 ![Lucyanno's GitHub stats](https://profile-cards-lucyannofrota.vercel.app/api?username=lucyannofrota&rank_icon=github&PAT_1&show_icons=true&include_all_commits=true&hide=stars&theme=transparent&hide_border=true)
 
-:mortar_board: Electrical engineering \
+:mortar_board: Electrical engineer \
 :books: Currently studying for a master's in Robotics, Control, and Artificial Intelligence
 
 
